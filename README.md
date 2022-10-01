@@ -15,7 +15,8 @@ git clone https://github.com/algorand/sandbox.git
 cd sandbox
 ./sandbox up testnet
 ```
-
+## make transaction
+follow tthis [notebook]https://github.com/niyotham/Smart-contracts-for-educational-certificates/tree/main/notebooks()to know how to make first transaction using sandbox
 ## Install SDK
 Algorand provides an SDK for Python which is available as a pip package. To install the Python SDK, open a terminal and run the following command:
 ```
